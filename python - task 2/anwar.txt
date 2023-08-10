@@ -1,0 +1,2 @@
+Hello, this is Anwar!
+I'm writing into a file named anwar.txt.
